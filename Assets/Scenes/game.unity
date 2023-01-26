@@ -9888,8 +9888,8 @@ LineRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Positions:
-  - {x: 0, y: 0.5, z: 0}
-  - {x: 0, y: 0.2, z: 50}
+  - {x: 0, y: 0.1, z: 0}
+  - {x: 0, y: 0.1, z: 50}
   m_Parameters:
     serializedVersion: 3
     widthMultiplier: 3.5
@@ -18492,7 +18492,7 @@ PrefabInstance:
       objectReference: {fileID: 1066714376}
     - target: {fileID: 264945244093456040, guid: 0de50b3f75f845a458b9a326cb88290f, type: 3}
       propertyPath: _lengthPath
-      value: 43.9
+      value: 44
       objectReference: {fileID: 0}
     - target: {fileID: 264945244093456040, guid: 0de50b3f75f845a458b9a326cb88290f, type: 3}
       propertyPath: _lineRenderer
